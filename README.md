@@ -1,2 +1,2 @@
 # DiscordScams
-Raw Discord Scam Links
+Raw Discord Scam Invite Codes
